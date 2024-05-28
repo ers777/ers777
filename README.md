@@ -1,7 +1,7 @@
 <br clear="both">
-
-![anime-aesthetic](https://github.com/ers777/ers777/assets/80592808/47034f58-e35c-4814-a345-22f51a7ecd18)
-
+<div align="center">
+ ![hacker-man-hacker](https://github.com/ers777/ers777/assets/80592808/76e950c7-cbec-4fd2-a848-cc2f40997ac5)
+</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersultan
 ================================================================================================================================
@@ -17,11 +17,11 @@ Mobile and Backend Developer
 * 🤝  I'm open to collaborating
 * ⚡  I am a 4th year student at Kaznu <img src="https://farabi.university/front/assets/img/icons/logonew1.png" align="center" style="width: 15px" />
 
-
-
+<div align="center">
 <a href="https://www.github.com/ers777" target="_blank" rel="noreferrer"><img style="margin: 10 250;"
 src="https://img.shields.io/github/followers/ers777?logo=github&style=for-the-badge&color=facc15&labelColor=22272e" /></a>
 <br/>  
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -87,6 +87,9 @@ Others
 <br/>  
 
 ## Connect with me  
+
+<br/>
+
 <div align="center">
  <div id="badges">
   <a href="https://www.linkedin.com/in/%D0%B5%D1%80%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD-%D1%83%D0%B7%D0%B5%D0%BD%D0%B1%D0%B5%D0%BA-763605280/">
