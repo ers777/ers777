@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-<img src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif" style="width: 250px" align="center"  />
+<img src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif" align="center" style="width: 250px, height:250px" />
 </div>
 
 
