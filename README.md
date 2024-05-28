@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"  />
-</div>
+![anime-aesthetic](https://github.com/ers777/ers777/assets/80592808/47034f58-e35c-4814-a345-22f51a7ecd18)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersultan
