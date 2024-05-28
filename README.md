@@ -7,3 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Mobile and Backend Developer
 ----------------------------
+<div align="center">
+<img src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif" align="center"  />
+</div>  
