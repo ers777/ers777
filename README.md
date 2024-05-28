@@ -1,8 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"  />
 </div>
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersultan
 ================================================================================================================================
@@ -33,7 +34,7 @@ src="https://img.shields.io/github/followers/ers777?logo=github&style=for-the-ba
 <div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Backend
 </div>
-
+<br/>
 
 
 
@@ -55,6 +56,7 @@ Backend
 <div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Mobile
 </div>
+<br/>
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -70,6 +72,7 @@ Mobile
 <div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Others
 </div>
+<br/>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
