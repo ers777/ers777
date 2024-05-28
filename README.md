@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-<img src="https://tenor.com/ru/view/hacker-man-hacker-cyber-gif-26053963.gif" align="center" style="width: 100%" />
+<img src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif" align="center"  />
 </div>
 
 
@@ -16,7 +16,7 @@ Mobile and Backend Developer
 * 🚀  I'm currently working on [appbloger]([http://](https://github.com/Azat374/blogerapp))
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating
-* ⚡  I am a 4th year student at Kaznu <img src="https://farabi.university/front/assets/img/icons/logonew1.png" align="center" style="width: 2.8%" />
+* ⚡  I am a 4th year student at Kaznu <img src="https://farabi.university/front/assets/img/icons/logonew1.png" align="center" style="width: 15px" />
 
 
 
