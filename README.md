@@ -1,6 +1,7 @@
 <br clear="both">
 <div align="center">
- ![hacker-man-hacker](https://github.com/ers777/ers777/assets/80592808/76e950c7-cbec-4fd2-a848-cc2f40997ac5)
+ <img src="https://github.com/ers777/ers777/assets/80592808/76e950c7-cbec-4fd2-a848-cc2f40997ac5.gif" align="center" style="width: 100%" />
+
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersultan
