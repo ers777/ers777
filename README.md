@@ -1,8 +1,8 @@
 <br clear="both">
-<div align="center">
-<img src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif" align="center" style="width: 250px, height:250px" />
-</div>
 
+<div align="center">
+  <img height="300" width="600" src="https://tenor.com/ru/view/anime-aesthetic-blue-gif-22834691.gif"  />
+</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ersultan
 ================================================================================================================================
@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/ers777?logo=github&style=for-the-ba
 
 
 
-<div style="text-align: center; font-size: 20px; font-weight: bold;">
+<div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Backend
 </div>
 
@@ -52,7 +52,7 @@ Backend
 
 
 
-<div style="text-align: center; font-size: 20px; font-weight: bold;">
+<div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Mobile
 </div>
 <div align="center">  
@@ -67,7 +67,7 @@ Mobile
 
 
 
-<div style="text-align: center; font-size: 20px; font-weight: bold;">
+<div align="center" style="text-align: center; font-size: 20px; font-weight: bold;">
 Others
 </div>
 <div align="center">  
