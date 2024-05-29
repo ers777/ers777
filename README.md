@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
- <img src="https://github.com/ers777/ers777/assets/80592808/76e950c7-cbec-4fd2-a848-cc2f40997ac5.gif" align="center" style="width: 100%" />
+ <img src="https://github.com/ers777/ers777/assets/80592808/8270673f-ebc2-4cf3-908b-7518670c6936.gif" align="center" style="width: 100%" />
 
 </div>
 
