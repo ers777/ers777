@@ -12,7 +12,7 @@ Mobile and Backend Developer
 ----------------------------
 
 * 🌍  I'm based in C#, Android Studio and React Native
-* 🖥️  See my CV at [cv](http://iuhuhopopopopopop)
+* 🖥️  See my CV at [cv](https://github.com/ers777/ers777/files/15482961/Off_campus_template__1_.pdf)
 * ✉️  You can contact me at ers626256@gmail.com
 * 🚀  I'm currently working on [appbloger]([http://](https://github.com/Azat374/blogerapp))
 * 🧠  I'm learning Kotlin
