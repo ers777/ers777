@@ -94,7 +94,7 @@ Others
 
 <div align="center">
  <div id="badges">
-  <a href="www.linkedin.com/in/ersultan-uzenbek">
+  <a href="http://www.linkedin.com/in/ersultan-uzenbek">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://wa.me/+77073835348">
