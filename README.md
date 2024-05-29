@@ -1,6 +1,7 @@
 <br clear="both">
 <div align="center">
- <img src="https://github.com/ers777/ers777/assets/80592808/8270673f-ebc2-4cf3-908b-7518670c6936.gif" align="center" style="width: 100%" />
+ <img src="https://github.com/ers777/ers777/assets/80592808/3fdfe089-8113-4f7f-938f-d7ea0caa624d.gif" align="center" style="width: 100%" />
+
 
 </div>
 
@@ -12,7 +13,7 @@ Mobile and Backend Developer
 
 * 🌍  I'm based in C#, Android Studio and React Native
 * 🖥️  See my CV at [cv](http://iuhuhopopopopopop)
-* ✉️  You can contact me at ers626256@gmail.com or [uzenbek03@mail.ru](uzenbek03@mail.ru) 
+* ✉️  You can contact me at ers626256@gmail.com
 * 🚀  I'm currently working on [appbloger]([http://](https://github.com/Azat374/blogerapp))
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating
